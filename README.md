@@ -15,7 +15,7 @@ git clone https://github.com/getoutMarcus/Tic-Tac-Toe
    Change into directory that contains script:
 
 ```
-cd tictactoe
+cd tic-tac-toe
 ```
 
 3. Run the script
